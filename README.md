@@ -37,8 +37,8 @@ A full-fledged **eCommerce solution** built on **Laravel 10**, featuring a moder
 ### 🔹 **Step 1: Clone the Repository**
 
 ```sh
-git clone https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10.git
-cd Complete-Ecommerce-in-laravel-10
+https://github.com/wilfredkimura/KimShopy-MarketPlace.git
+cd KimShopy-MarketPlace
 ```
 
 ### 🔹 **Step 2: Install Dependencies**
@@ -106,11 +106,9 @@ php artisan serve
 -   Lorna Arwa -
 -   Anna Muoki -
 
-📧 **Email:** Prajwal.iar@gmail.com  
-📲 **WhatsApp:** +977-9818441226
 
 ## 📜 License
 
 🔹 This project is **MIT Licensed** – Feel free to use & modify!
 
-⭐ **If you find this project helpful, don't forget to star it!** ⭐
+
