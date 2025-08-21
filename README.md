@@ -104,7 +104,7 @@ php artisan serve
 
 -   Kimura Mutahi - kimuramutahi@protonmail.com
 -   Lorna Arwa - lornaarwa@gmail.com
--   Anna Muoki -
+-   Anna Muoki - muokianna10@gmail.com
 
 
 ## 📜 License
